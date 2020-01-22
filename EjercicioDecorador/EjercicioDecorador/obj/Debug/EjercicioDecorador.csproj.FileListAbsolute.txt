@@ -1,0 +1,7 @@
+C:\Users\carlos.can\source\repos\EjercicioDecorador\EjercicioDecorador\bin\Debug\EjercicioDecorador.exe.config
+C:\Users\carlos.can\source\repos\EjercicioDecorador\EjercicioDecorador\bin\Debug\EjercicioDecorador.exe
+C:\Users\carlos.can\source\repos\EjercicioDecorador\EjercicioDecorador\bin\Debug\EjercicioDecorador.pdb
+C:\Users\carlos.can\source\repos\EjercicioDecorador\EjercicioDecorador\obj\Debug\EjercicioDecorador.csprojAssemblyReference.cache
+C:\Users\carlos.can\source\repos\EjercicioDecorador\EjercicioDecorador\obj\Debug\EjercicioDecorador.csproj.CoreCompileInputs.cache
+C:\Users\carlos.can\source\repos\EjercicioDecorador\EjercicioDecorador\obj\Debug\EjercicioDecorador.exe
+C:\Users\carlos.can\source\repos\EjercicioDecorador\EjercicioDecorador\obj\Debug\EjercicioDecorador.pdb
